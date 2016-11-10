@@ -23,6 +23,9 @@
     for(int i = 0;i<10;i++){
         NSLog(@"Print Bhowmik");
     }
+    for(int i = 0;i<10;i++){
+        NSLog(@"Print SUST");
+    }
 }
 
 
