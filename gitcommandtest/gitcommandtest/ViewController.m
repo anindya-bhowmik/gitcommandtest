@@ -21,10 +21,7 @@
         NSLog(@"Print Anindya");
     }
     for(int i = 0;i<10;i++){
-        NSLog(@"Print Bhowmik");
-    }
-    for(int i = 0;i<10;i++){
-        NSLog(@"Print SUST");
+        NSLog(@"Print Bhowmi");
     }
 }
 
