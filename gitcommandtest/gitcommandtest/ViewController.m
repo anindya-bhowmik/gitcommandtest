@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"printf");
+    for(int i = 0;i<10;i++){
+        NSLog(@"Print name");
+    }
 }
 
 
