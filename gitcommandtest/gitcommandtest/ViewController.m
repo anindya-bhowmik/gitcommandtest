@@ -18,7 +18,10 @@
     [super viewDidLoad];
     NSLog(@"printf");
     for(int i = 0;i<10;i++){
-        NSLog(@"Print name");
+        NSLog(@"Print Anindya");
+    }
+    for(int i = 0;i<10;i++){
+        NSLog(@"Print Bhowmik");
     }
 }
 
